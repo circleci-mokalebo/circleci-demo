@@ -11,7 +11,7 @@
 
 
 ## Purpose
-The purpose of this document is to define how to setup t
+The purpose of this document is to define how to integrate CircleCI with your private repository and configure your first build.
 
 ## Terms and Definitions
 CircleCI is a CI/CD tool that supports rapid software development and publishing, allowing automation across the user’s pipeline, from code building, testing to deployment.
