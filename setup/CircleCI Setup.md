@@ -20,7 +20,7 @@ CircleCI is a CI/CD tool that supports rapid software development and publishing
 
 1. Visit [https://circleci.com/signup/](https://circleci.com/signup/)
 
-2. Select Signup with GitHub ![SignUp with GitHub.](setup/img/CircleCI1.png)
+2. Select Signup with GitHub ![SignUp with GitHub.](/img/CircleCI1.png)
 
 3. Authorize CircleCI
 
